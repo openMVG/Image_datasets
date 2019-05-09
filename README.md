@@ -4,6 +4,7 @@ OpenMVG image samples
 Pinhole image datasets
 ----------------------
 - [ImageDataset_SceauxCastle (11 images)](https://github.com/openMVG/ImageDataset_SceauxCastle)
+- [ReconstructionDataSet (9 dataset with HIGH-RES images)](https://github.com/rperrot/ReconstructionDataSet)
 
 Spherical datasets
 ------------------
