@@ -10,3 +10,7 @@ Spherical datasets
 ------------------
 - [Flat (11 indoor images)](360_dataset/README.md)
 - [School (4 outdoor images)](360_dataset/README.md)
+
+Drone datasets
+------------------
+- [Palm Desert Micro (21 DJI Mini2 images)](Drone/Palm_Desert_Micro/)
