@@ -20,7 +20,7 @@ openMVG_main_ComputeFeatures -i $dataset_out/matches/sfm_data.json -o $dataset_o
 openMVG_main_ComputeMatches -i $dataset_out/matches/sfm_data.json -o $dataset_out/matches -g a
 
 # Compute of the camera motion and structure of the scene
-openMVG_main_IncrementalSfM -i $dataset_out/matches/sfm_data.json -m $dataset_out/matches -o $dataset_out/reconstruction
+openMVG_main_SfM -i $dataset_out/matches/sfm_data.json -m $dataset_out/matches -o $dataset_out/reconstruction
 
 #
 # MVS (optional)
