@@ -14,3 +14,7 @@ Spherical datasets
 Drone datasets
 ------------------
 - [Palm Desert Micro (21 DJI Mini2 images)](Drone/Palm_Desert_Micro/)
+
+Reference objects with ground truth
+-----------------------------------
+- [T001 stepped tower (59 phone video frames, CAD, AprilTag markers)](Reference_object/T001_stepped_tower/)
